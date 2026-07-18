@@ -57,8 +57,8 @@ project-folder/
 ## Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <PROJECT_FOLDER_NAME>
+git clone https://github.com/mamidi-joseph/MCP-Two-AI-Models-Communicating.git
+cd MCP-Two-AI-Models-Communicating
 ```
 
 ---
